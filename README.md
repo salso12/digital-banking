@@ -1,1 +1,1 @@
-# DigitalBanking-Spring-Angular
+# DigitalBanking application
